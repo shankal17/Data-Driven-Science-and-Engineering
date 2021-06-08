@@ -1,0 +1,10 @@
+*.ipynb_checkpoints
+__MACOSX/*
+__pycache__/*
+CODE_PYTHON/*
+Data/*
+.ipynb_checkpoints/*
+*.csv
+*.jpg
+*.m
+*.mat
